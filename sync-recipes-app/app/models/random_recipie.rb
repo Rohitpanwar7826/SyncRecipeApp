@@ -1,0 +1,2 @@
+class RandomRecipie < ApplicationRecord
+end

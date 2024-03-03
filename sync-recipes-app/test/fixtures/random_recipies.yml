@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  meal_id: 
+  topic: MyString
+  category: MyString
+  area: MyString
+  instructions: MyText
+  image: MyText
+  tags: MyString
+  youtube: MyString
+
+two:
+  meal_id: 
+  topic: MyString
+  category: MyString
+  area: MyString
+  instructions: MyText
+  image: MyText
+  tags: MyString
+  youtube: MyString
