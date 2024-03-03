@@ -14,30 +14,28 @@ Requirements for this project to start
 Please check for more details on Package.json and Gemfile 
 
 ---------------- Login Page -----------
-![image](https://github.com/Rohitpanwar7826/recipe-app/assets/81533608/98535436-41e8-4f82-bd98-d3414b47c2f5)
+![image](https://github.com/Rohitpanwar7826/SyncRecipeApp/assets/81533608/4efbd742-4525-43d8-8c52-2e3f9d3da00f)
 
 ---------------- Random Recipe This recipe changes every 5 seconds without the page reloads -------------
-![image](https://github.com/Rohitpanwar7826/recipe-app/assets/81533608/2d7c318b-f14e-49a7-ace3-a6e7c5d1eaec)
+![image](https://github.com/Rohitpanwar7826/SyncRecipeApp/assets/81533608/13df17fb-6578-4213-982b-4cf7e53e2657)
 
 ---------------- List of Dessert That you can make by clicking on I make also make you like that recipe ------
-![image](https://github.com/Rohitpanwar7826/recipe-app/assets/81533608/19003f78-330e-416b-854d-69bb544b30cb)
-
+![image](https://github.com/Rohitpanwar7826/SyncRecipeApp/assets/81533608/600afd0a-fe93-4639-a7d8-d5d769321bdd)
 
 ---------------- Detail page when you click on the I make button it will redirect you to the detail page -----
-![image](https://github.com/Rohitpanwar7826/recipe-app/assets/81533608/1e8bb1e5-f7c1-402d-8a73-711d5cb6b778)
+![image](https://github.com/Rohitpanwar7826/SyncRecipeApp/assets/81533608/becc4c73-1fb8-4706-a022-2a0504cd4b68)
 
-
----------------- This Live recipe section where how many peoples are creating this recipe when you click on I make button it will create your record for the live recipe section remember this record will delete after 15 min automatically --------
-![image](https://github.com/Rohitpanwar7826/recipe-app/assets/81533608/91fba388-7aca-43a5-ab74-4ab6f2195826)
+---------------- This Live recipe section where how many peoples are creating this recipe when you click on I make button it will create your record for the live recipe section remember this record will delete automatically after 15 min --------
+![image](https://github.com/Rohitpanwar7826/SyncRecipeApp/assets/81533608/635691bb-a461-497d-aa90-01211d5821a5)
 
 --------------- Category Favorites --------
-![image](https://github.com/Rohitpanwar7826/recipe-app/assets/81533608/5eaf2637-cfc7-4620-b75b-102e323837ee)
+![image](https://github.com/Rohitpanwar7826/SyncRecipeApp/assets/81533608/7a4f9c17-35b9-44f0-9cb5-b606d2f13c3d)
 
 --------------- Recent Categories Liked by People --------
-![image](https://github.com/Rohitpanwar7826/recipe-app/assets/81533608/d71d65cb-3719-4df5-b547-6c329ad3a2a4)
+![image](https://github.com/Rohitpanwar7826/SyncRecipeApp/assets/81533608/4b6938c2-044d-488d-bbed-b4f1d899d82a)
 
 --------------- Recent List Liked by People --------
-![image](https://github.com/Rohitpanwar7826/recipe-app/assets/81533608/e09cd2e0-e416-47e7-8252-64fdb123958a)
+![image](https://github.com/Rohitpanwar7826/SyncRecipeApp/assets/81533608/b3f07d5c-ce6e-4bfd-9d45-634788a32ae4)
 
 
 
